@@ -1,0 +1,26 @@
+{
+  "name": "Micheal Welch",
+  "age": 26,
+  "address": {
+    "street": "Jiuk Road",
+    "city": "Bupedbu",
+    "state": "MN",
+    "zip": "98265"
+  },
+  "contact": {
+    "phone": "(214) 750-8114",
+    "servicePhone": "800661548"
+  },
+  "birthday": "1997-02-04T00:25:55.633Z",
+  "ip": "21.177.69.1",
+  "foo": "bar",
+  "profile": {
+    "about": "Izwed edidag lujzi fisaga fo kuclal uzo tokare ra abek faof tuzinjuj. Oki ke dekoswe gen tuto jebiwof sivhe ese no ar mip wumpona pe etebor kiwdifak kudefuwi. Bola tarzawa jubkob ohaosduj lompef wisvize nutiz lomtec kogofuh esveb hafhouv wahu kafalked fihhuwu.",
+    "bio": "Bel cihag poza kucvuted fe hapsu zez lupekpe re tekguttus bil tihwouti hoponeb. Rojdos few me janu gulokde refomi zubzidida huv otudupe evaowo niveszu wun. Ba unomocfa uteci hahsul zogeg luso si agfasu vur fe hihlu saw jivduleco."
+  },
+  "apiKey": "5c1fa162ee14274d379eb60b8064966a113a5690943aec38ba7691fa56892be6",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
