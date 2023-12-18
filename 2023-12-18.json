@@ -1,0 +1,26 @@
+{
+  "name": "Vincent Bowman",
+  "age": 24,
+  "address": {
+    "street": "Nilis Road",
+    "city": "Amjiku",
+    "state": "VA",
+    "zip": "16457"
+  },
+  "contact": {
+    "phone": "(350) 345-8568",
+    "servicePhone": "800292583"
+  },
+  "birthday": "1971-02-18T15:30:51.471Z",
+  "ip": "161.62.235.172",
+  "foo": "bar",
+  "profile": {
+    "about": "Hiszek ge sopapic jorfoprez tunoce maj wehe nuvro vi veelin haahuwu ilemobor pop caupijo fe egu bov rahvod. Nofu ku tetan wusok sewud usito fovan devlo hozamah vodjej pokufa ci. Ebi turu ebi sitrinro jo gor solke ipasic mif kasen teuzu avabi. Biujri butuk omlo now fikhemib ku ka zirob abaza waagium acdot jifgot dahsi lazebven ke.",
+    "bio": "Jofwuwuw hes ma fe askijsu muwato bipmikbaf kubla pac lejhawke ah nusbeis og ca fuz owsebga. Emonem aku bef gocuw se luvzalap sug man facingip pu bufzo ni letbi. Bapuc ahuduh jubdo vonarwuh za uz tovuhefe mumvigid ce za pa wal. Pinah ta tomo kaato nirutkaz jibha cowdibtop pokmicdu kir vehomvi emermu secwer waveloj inifuslec ebifov."
+  },
+  "apiKey": "716ce662355a0d1f6be24f4a2fdd27f312d7b29232d774b19d1bf5cc27bdce26",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
