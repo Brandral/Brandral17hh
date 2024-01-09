@@ -1,0 +1,26 @@
+{
+  "name": "Jim Rodgers",
+  "age": 44,
+  "address": {
+    "street": "Pihu Plaza",
+    "city": "Wepneog",
+    "state": "MS",
+    "zip": "02750"
+  },
+  "contact": {
+    "phone": "(874) 777-9846",
+    "servicePhone": "800677687"
+  },
+  "birthday": "1975-02-21T12:01:07.774Z",
+  "ip": "147.57.62.228",
+  "foo": "bar",
+  "profile": {
+    "about": "Ulijwud hu asevib web davuvko uza ipu moorueke dapvihpic ge deg cojo ruwufo egamumpa zabjew addenoza. Lom pifzu aji jer ke oh cabkice sa lag kafilo epu anezasof iduobu. Jaiwevo biwlap idolete se kiup bepjuhi uko legokag we parkopa acemet acbodi uhwiv.",
+    "bio": "Juzuvdo lup wobaw heb deg fiwe ap jol jescagec demrilap em laeze cohlah ivi vocobu. Nuam wuhzo lahrubu davraeb focsokdu juchiop eno ugiego des nozdew kiweh ivzejef odfetac utraw nuslijno ganidu rocizu. Lasrihobo pafheljo diona sen oshik ziz ravruv vejus nenidak jor uvatu bewos izror zawa woverul tukrad sab. Nabroat tacfa fuva pidu juz ehzipof ludlavve patpa ga doel zoz gesadgi kipji hizoreme. Ho fit bu eggabdek ruseke wezden uru lat johi ibaro ga tolbawe fehpeh sadkofiw ristunke uso net dakfo. Seb zoeke sodne ovudeoja tugojo daj vumav notnujmak fis voamse cok ifoder. Siso cak zizbinjul joef jojat sa visec fikwo okrujgoz goj cahun ji utpotmo ow fomhu mi."
+  },
+  "apiKey": "9a9be893e9eeef3254c8884541eacff7b37f30f5abafd1a3048972fdbba41c6d",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
