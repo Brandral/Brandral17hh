@@ -1,0 +1,26 @@
+{
+  "name": "George Russell",
+  "age": 25,
+  "address": {
+    "street": "Ikito Grove",
+    "city": "Jehaoku",
+    "state": "IA",
+    "zip": "10204"
+  },
+  "contact": {
+    "phone": "(978) 515-6210",
+    "servicePhone": "800192152"
+  },
+  "birthday": "1969-06-23T14:42:08.522Z",
+  "ip": "65.49.61.236",
+  "foo": "bar",
+  "profile": {
+    "about": "Pofpi pu ebu suc les jutala kode nim vowre uche gulejko izu bopva. Zevis fogegige ohijepme vanlekle mocpafbo ige fejakbi zuzip uvu edno pe huhom tegbuwme. Lekevi ugo laldaw apoga asa igwutpes diko nuzgehcu hozaswug cuiju forafamo ongekesa se cak.",
+    "bio": "Feopojan newebudi ollavce fi totwe uzlowu ovgek bej ve ase dar eherupgu wopuk obueli. Boged don cotbem noub suglo wehizcil iva nevekef ruke uzatapit reba tejuse dumpemaj niga zukor. Jalufo elnebcoz jo rob vug edu gaperubat nag ulawof fokiz pokcoj git cogpeil vomci. Fow didah ickonuw vuit zu zunsoz pazo gahfon mu viz kewmis bawnur tag. Jo niarefe rolo awiavo co simser ahusbu dahek dimuw kukji ekhaf bonfohge nehogop gagba sabel go ip gijsi."
+  },
+  "apiKey": "c4ca1ad37acb622dbd9a372eda31e52434ebffe7cc6860c3c5c2c9945fecd6ed",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
