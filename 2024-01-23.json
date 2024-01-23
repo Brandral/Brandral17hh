@@ -1,0 +1,26 @@
+{
+  "name": "Amy Lambert",
+  "age": 22,
+  "address": {
+    "street": "Coum Place",
+    "city": "Ejfuggok",
+    "state": "HI",
+    "zip": "54824"
+  },
+  "contact": {
+    "phone": "(589) 997-1658",
+    "servicePhone": "800437289"
+  },
+  "birthday": "2005-09-25T15:56:28.715Z",
+  "ip": "232.110.89.55",
+  "foo": "bar",
+  "profile": {
+    "about": "Duvis wave zocjasve razevup nef haze eko vawibo timbepwu wemet pejfag sizjaozo pomizom cajjiwec. Fuve mud umamin jelfevti ecu vosaf bihbac fes ke hit hat opinipic ihi liih re saril. Kumag du uzranped hebahone bajlebe pehdej ijuozeneb odi niemgi hocnivhul atihaoca vugcadpa.",
+    "bio": "Huzib ure ruzjic fegveb dud ki pombe wu fufiv la urke offu mankad inladem selfi vesig vuvvihap. Maja bonega gemhucim li havun pedit ga riz fivlasral cip bo neuzokur. Wowcerzom rug bi jehize ezji lossaz zor pivfiz tawilro zotocfo lucovdes ul odowoni geemuce iva."
+  },
+  "apiKey": "e2fe9be4fecad73e3016c553e1177fac0a7019153ffb598bac83a52b2194256e",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}
