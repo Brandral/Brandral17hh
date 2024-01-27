@@ -1,0 +1,26 @@
+{
+  "name": "Nicholas Taylor",
+  "age": 42,
+  "address": {
+    "street": "Hami Pike",
+    "city": "Rafzidev",
+    "state": "GA",
+    "zip": "10466"
+  },
+  "contact": {
+    "phone": "(836) 289-1752",
+    "servicePhone": "800331147"
+  },
+  "birthday": "1995-12-09T00:42:50.314Z",
+  "ip": "227.66.239.195",
+  "foo": "bar",
+  "profile": {
+    "about": "So jo di ozu vemnejka fo hi hackuv zika lej huma zekhimi jegja dulevop po juru. Ihzebzi datrole hiwwoce wocfasto jam ku faf sed mido zednaik cu ho hontozdiz dihvaf veswipa. Abu baevoc ler ugeigies ehmomi sulfe vasdep to mekzaf munken ulo wo. Jofbofe hu zowze uba gudek kuv ecevekmit sotgecku teav goiw mimuzu taf luuvuzil me ewararfi odgarber peaha.",
+    "bio": "Bemedofe pil zewav niahumul gezujum zas ekuweh ec no zecetpa wehokje rofsiliva munepi. Umzer ur zuhe hej ewi facbikam kezgulcaw ag kokap ga guka ko sadbotabe. Diaraci vadse lidmo hoc hariufo bir lu ji wonzizlic icehe sesukib wogsodkum. Edveglan zaz gu keol fetsu vuv luppergu po lihib cu ul ja."
+  },
+  "apiKey": "1a2f1beb03334c7b890b32a00bded59c3fa8a4436a1a7e357786b42a52b427fd",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
