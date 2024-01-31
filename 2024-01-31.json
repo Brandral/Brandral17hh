@@ -1,0 +1,26 @@
+{
+  "name": "Sara Robertson",
+  "age": 35,
+  "address": {
+    "street": "Zitop Parkway",
+    "city": "Vikkimu",
+    "state": "IL",
+    "zip": "38915"
+  },
+  "contact": {
+    "phone": "(326) 913-6710",
+    "servicePhone": "800132599"
+  },
+  "birthday": "1999-07-20T00:52:34.126Z",
+  "ip": "233.170.58.79",
+  "foo": "bar",
+  "profile": {
+    "about": "Azetub bejel ef daglap mo kol puhjapewu eta mibja jakfaamo few miv bem. San giewi tu kihurdog ruj po ewulojda sepujubo oru rucve ehbotu difbef rokalbej ikjig zocera gu. No recuvjir ageiposit ru ba hogulhur kepelo iho fitovcu civzujet luruw sodwe ubzaiwa ife varu.",
+    "bio": "Ga tovka vu vewojco niicope tial vobfip mil eharevbiv osoves egpahi ok luvbeh uto runicpe zet besise jezsecce. Maebege modomu sutdeb bicboc filacek dezu uti uwejegfo awgoko ukeodnu fu hirev huf gin mocel fecod ku hehvot. Ogaawouw oje annangi it tenwucsu oso gudew berizsip sadti ku sekko at kazus cuf vumwipwi so najsi femmi."
+  },
+  "apiKey": "58630b057029b5255f201d298209dfca870c04fe891988f3237d29cba2c7720c",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
