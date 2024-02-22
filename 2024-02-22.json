@@ -1,0 +1,26 @@
+{
+  "name": "Beatrice Harrison",
+  "age": 46,
+  "address": {
+    "street": "Ruvru Glen",
+    "city": "Loroaf",
+    "state": "IA",
+    "zip": "52654"
+  },
+  "contact": {
+    "phone": "(672) 463-1182",
+    "servicePhone": "800696921"
+  },
+  "birthday": "1962-11-20T00:50:09.591Z",
+  "ip": "10.232.158.98",
+  "foo": "bar",
+  "profile": {
+    "about": "Ihvaku susrov na le zuko on lu onepunhi ejrek koitiabe sog co eha puzuka vi wazaz wu. Wakvun ohmorki vimdu goos bozvo wulzegos ifco cuepuva ped wufa lez lus pewvu wato. Emulukip feel utofo lorlis ura cegabul teoze upig pedime kiwevap humowbe gena tu mukkap ebesuten senuhher lu.",
+    "bio": "Siefade vahjuw fudtuhub abwal eh fosrupo su wossokge va biot ta eju udeuvje odnif. Zaga nunof to tofak he cag kutusu kej fe juz jor linob. Az kag faz ejagajaz boalkab denan sus hego ogouho rafrozcon pot bup ne sozajvu fuoligel fizen."
+  },
+  "apiKey": "3ebd1dd7451da914624a19f9030ada2c0abfd2029d22eca6c596d39988489134",
+  "currency": {
+    "code": "STD",
+    "name": "São Tomé and Príncipe Dobra"
+  }
+}
