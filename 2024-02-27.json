@@ -1,0 +1,26 @@
+{
+  "name": "Bernard Barnes",
+  "age": 39,
+  "address": {
+    "street": "Piknar Point",
+    "city": "Orautabi",
+    "state": "NM",
+    "zip": "52427"
+  },
+  "contact": {
+    "phone": "(789) 880-7688",
+    "servicePhone": "800375162"
+  },
+  "birthday": "1999-03-07T03:58:28.481Z",
+  "ip": "30.63.191.75",
+  "foo": "bar",
+  "profile": {
+    "about": "Tuakevu dusas at fuuza lajoz zescop noh ku mi jep karvofup lekle pajve vum iw po. Iva sujuf ikikoc alecem puj avhog winuvfo ideze pitredbuf ockempa pufe dorad fok umpib owreena varac. Rerurzol widaz ec aw paafu polbuc futob nufo picpuz sa jiolkun wom egafo. Kuhikho evbievo kembacbih te mimpefob sumerop fac far tufu ra nucmu ret bo. Ze kisafrez epuw ar tehjuzat fe daruip vitsoow kemiko mi bo vi itat ir. Avvubzu hudo da su gutbigfej jarmihi lilwen ke zucuc boc uhdudok sesfane kabhitu woh. Fuvhibfov kuazugu ceptemip asarucdoc koteha vunli eb zuwiho du nuuzu bocog ugval ku.",
+    "bio": "Tisiwdam litve zah bif ujuk dacaw bupelva sure hojrib iwovi bezosgut lehotzem sekehak. Cu doumet lidnil net ew zicace hev nos nut suhcapa gomce peem divdueti. Ezsana cithilte ruiveupo fumgibje fowuffe ker mewmin gav ru sesec iru giiru zor zicuc."
+  },
+  "apiKey": "d4ae1622fdb0dda66ca5fc0ac3edccbf0c82b6887a46f4ad785555d4e2066bff",
+  "currency": {
+    "code": "FJD",
+    "name": "Fiji Dollar"
+  }
+}
