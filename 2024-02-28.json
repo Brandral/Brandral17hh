@@ -1,0 +1,26 @@
+{
+  "name": "Ian Clark",
+  "age": 33,
+  "address": {
+    "street": "Kurif Loop",
+    "city": "Olezimle",
+    "state": "DC",
+    "zip": "52230"
+  },
+  "contact": {
+    "phone": "(922) 367-7502",
+    "servicePhone": "800652354"
+  },
+  "birthday": "2003-07-14T12:32:53.404Z",
+  "ip": "198.253.151.167",
+  "foo": "bar",
+  "profile": {
+    "about": "Sew ofutfim obife duduhtud zaw li wo urabud osicej zeriljof haic dom vukvudob feoga dus. Uze zepsavap ledesomo sis onigacco nebodew pov faweflar tutez gewpivged ju me tamuneegi wizjubza jevgij azi sel. Sup memap rehzaja do woac wevu opiano ibegun rupew kemin mibcuij tokmeraj pi adinilli cuivu.",
+    "bio": "Baj fergaf buf nane apsoat ol sone siwesod sijar warib bu ves cacunjor gugib kuaduin gehjolka owaeleuw. Uc nas woje awkiczu wefa onfowih hozpuge vimzes iheutjep faj juc ipu mojahgu affedru saczuk sednoh zor. Goczac corzuv ral ko rizak jipi cowogo benoc opagoli atminok ji dulpo ivu keglo difewvih govmu."
+  },
+  "apiKey": "dfe839d6d5f61873458431da4e40381a373e0ffe5e4d3a02d190ac7f7a498d29",
+  "currency": {
+    "code": "IRR",
+    "name": "Iran Rial"
+  }
+}
