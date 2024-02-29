@@ -1,0 +1,26 @@
+{
+  "name": "Esther Castro",
+  "age": 37,
+  "address": {
+    "street": "Denuma Junction",
+    "city": "Gotdatup",
+    "state": "OK",
+    "zip": "79133"
+  },
+  "contact": {
+    "phone": "(913) 310-5635",
+    "servicePhone": "800381117"
+  },
+  "birthday": "1966-09-11T23:16:39.071Z",
+  "ip": "80.18.5.114",
+  "foo": "bar",
+  "profile": {
+    "about": "Sakliaze me fa ci ragti wovduko jiev vetur ro vuv fi itpedof ducdit aparig. Samuwnu ritlu wotiscep veur dalzumbuz lackem ru awgi hoavowa haro gibzi fu noj ez. Simredku iktu zirkimla ona de cet nurfevsav vivevut muzoh udopizbo oh lebjo.",
+    "bio": "Uwadenep ze li bukga ufo iganed fejzudud lodo dupel af pik seneso owug uj iphibul. Ape agnel ro mogguz kejmaf gi gono upugofodu ciz ogjaigi betfef ettiluz. Pejra ekojalke nu hut ma za alanujib ej ufaadu ranifha cuwupet jugkul. Vidaru mebnem ho uci seni he diod wanruun ewu sabevlek wojefac kuku evuzem jirovuv ruc gevi."
+  },
+  "apiKey": "312cd1b93c85df069cdaba86ff4a472ef50a34a5225ea24f41b73549ab91bec8",
+  "currency": {
+    "code": "ZWD",
+    "name": "Zimbabwe Dollar"
+  }
+}
