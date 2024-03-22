@@ -1,0 +1,26 @@
+{
+  "name": "Eliza Poole",
+  "age": 34,
+  "address": {
+    "street": "Pawi Square",
+    "city": "Segohge",
+    "state": "NC",
+    "zip": "86267"
+  },
+  "contact": {
+    "phone": "(582) 782-6295",
+    "servicePhone": "800362595"
+  },
+  "birthday": "1999-09-26T14:38:34.504Z",
+  "ip": "51.210.131.60",
+  "foo": "bar",
+  "profile": {
+    "about": "Ge jon etum orkogun gotobu nacdial johdauci gowi kelwu rugzi pewbuwcun of oke utozi kafla. Tu tim so ruvaami zurfokbov wovowsum nad gube san cobe ceshinoko wamukoj ojenede. Zaage bav odfe vehre rerudeko canpan jisowis edkos zur ju uma akvac.",
+    "bio": "Bogu cuigre nojimeja cel wuer risica fum amojasbaj vicpan osueriwa vukvewu biwepfe. Tuzazle tiwom nore ufi raf nelo geiri ozusic cew ciebvos kellujsej fan keaz buno nahi ruicuvi tiwa. Neroal veca lotabu tedidiv gizomivi gobingel ufo hibohsul gejuh aneoncu uga ebsu um. Enzoma amdokjo gah ga bodhupa igadogubu atije etasirad fad lolpidwe ze rezbat zaupa sitir."
+  },
+  "apiKey": "6aded742d4325983c37cd3a24e4919d548cd24a5516777dad34a5ed1023fd42a",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
