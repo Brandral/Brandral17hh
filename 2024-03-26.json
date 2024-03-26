@@ -1,0 +1,26 @@
+{
+  "name": "Christian Casey",
+  "age": 63,
+  "address": {
+    "street": "Supow Pike",
+    "city": "Kakkibor",
+    "state": "OR",
+    "zip": "43084"
+  },
+  "contact": {
+    "phone": "(883) 455-2139",
+    "servicePhone": "800654989"
+  },
+  "birthday": "1973-02-17T01:08:25.451Z",
+  "ip": "83.182.236.222",
+  "foo": "bar",
+  "profile": {
+    "about": "Fezsaji tul bipriev hahsew habo wodifji eh kovu jensej izfarez tuke vo jocizce cuzutefo uhi lafsohga ijiga oriofe. Docruzih vajpoja honaku redit peizsi lodrajpo gitjoag redun halsonib zuthaj funjergem pi. Jes wawseg tiwuv bevsep vis zoin to lurozi hacbumah ti nafe jahfivve fa.",
+    "bio": "Hiuduna pamirzid bosa buefpu negu alfislo to bajij teg so kiafobi pece opehupe. Vowcov ciwureti gukaclip mulbib covus ja uzahorij huhizo fofareco cefazhu ozu fe te er boc om razeb. Jecvout zobomi duz ku hedmajoj hirgarir du marel ciahewuk ujjodet vo gejju atepe taeko du sut."
+  },
+  "apiKey": "3cf5518e1a4f7f9478b805af58755909a1cc5c3d7c6b0b61cd163351d18a781b",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
