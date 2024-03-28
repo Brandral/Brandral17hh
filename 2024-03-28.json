@@ -1,0 +1,26 @@
+{
+  "name": "Ethan Austin",
+  "age": 28,
+  "address": {
+    "street": "Figi Point",
+    "city": "Gekkuce",
+    "state": "AZ",
+    "zip": "12863"
+  },
+  "contact": {
+    "phone": "(824) 384-3449",
+    "servicePhone": "800199623"
+  },
+  "birthday": "1992-12-05T23:32:10.911Z",
+  "ip": "252.32.132.75",
+  "foo": "bar",
+  "profile": {
+    "about": "Ja ro itailaw ser ucutisko avemak loeh ukogumtu mojaviidi efuir zu fageskac. Ozraw bohob kuzrutcas sar kodfujjo meblafal orhud mazkic su edgoawu gaowa wekafo fa. Ebuacsa fodomle ho gig bofabi ovopub felzoam iweuw petvonkog beg edaewudam wuvfiteg.",
+    "bio": "Hu wer ced lihpuak vijak itpibca cohjacjul saf iczoote ja runew co. Cel vazicaeb par vurev buk ihu ga hevpenkip wunilda vuahe wedden juok pujog najcerkit ev. Pa ace ketolofo luhedomo vodbubpak gowe roseke ecuci bigasa ve lomofpon ujebuhe barjafta wojahgeg fahin og pu. Vat codocjic ca pohe pa bepnotod zi dahefbe ra cec hi tekope wongob hicurre jo zu dokan uza. Demweg jemaw weninasal bunirwe wu ofdakhun zeek wu ler nu pa to usi siujuah tatidadoj nuk. Boppe derakiw wiivdin tosde weihoiz sal rik wivmitiji mamatnig dieneruf wagecete soweg ataze akzi di somuz. Rof za baukefu vudcen fakto cadweb rimre fof tupar ho boznira liolo."
+  },
+  "apiKey": "25101c873318475019937f3b5a5c0381f677e4c9d28ce4d649264c659f651437",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}
