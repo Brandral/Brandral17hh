@@ -1,0 +1,26 @@
+{
+  "name": "Andrew Estrada",
+  "age": 49,
+  "address": {
+    "street": "Pavvib Pass",
+    "city": "Pilcolo",
+    "state": "ME",
+    "zip": "39007"
+  },
+  "contact": {
+    "phone": "(434) 641-5076",
+    "servicePhone": "800738348"
+  },
+  "birthday": "1986-01-12T14:33:49.585Z",
+  "ip": "194.24.44.212",
+  "foo": "bar",
+  "profile": {
+    "about": "Siw kaved poco law wak teh sav pez ipunon velca ziwcoemi re jufedu fawguta. Susdu ednatbov mede sirmadomi jef fomugsi tuskezi leh pizsifpe curductac po ju. Ca hije ba ate hubwohnid lalu zaz deccofta samap cuhro asefal ojkiek muf kab tuhe izopefil omzata.",
+    "bio": "Liup emutum zi boof ov egigoz fusir feweb uwco polka pijru mo uho levwi dazsim wecguzwes jisi hezizi. Iko bezjic eru bogil zi wibguf tulal ceh likugdi pepinit gouwuveh ag zemul kailze la arajecen hewosbe. Fed it sar oromevuk onegomoh bigvi nel mosko reag nu ha keknafrab cafehen."
+  },
+  "apiKey": "1b929e254458c8de0d485139577ef6a262ae0b3e814223458f9929fb692a9033",
+  "currency": {
+    "code": "BSD",
+    "name": "Bahamas Dollar"
+  }
+}
